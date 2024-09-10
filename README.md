@@ -11,7 +11,7 @@
       Hello World!!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="4%"/> 
   </h2>
   <h4>
-      Hi 👋! I'm Rehan Mittal, a Web Developer, UI/UX designer, and Data Analyst from India. Let's connect and explore exciting opportunities in software development projects!. Scroll down to know more about me and to connect with me!
+      Hi 👋! I'm Praveen Kumar, a Web Developer, UI/UX designer, and Data Analyst from India. Let's connect and explore exciting opportunities in software development projects!. Scroll down to know more about me and to connect with me!
   </h4>
 </p>
 <!--
@@ -32,8 +32,9 @@ Here are some ideas to get you started:
 - 🏫 Haryana, India
 - 🔭 Building my skills, while also working on a few of projects.
 - 🌱 Learning Data Science, Web Development and DSA, while working on related projects.
-- 📄Check out my resume! [![Rehan's Resume](https://img.shields.io/badge/-Resume-blue?style=flat&logoColor=white)](https://drive.google.com/file/d/1Z5EeblmTwpKQPP6Vpm-yoYZ7U3Yfvxbz/view?usp=sharing)
-- 📫 You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rehanmittal/) <h3 align="left">Connect with me:</h3>
+- 📄Check out my resume! [![Praveen Kumar]()
+- 📫 You can reach me at: [![Linkedin Badge]() <h3 align="left">Connect with me:</h3>
+<!--
 <p align="left">
 <a href="https://twitter.com/rehanmittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rehanmittal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rehanmittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rehanmittal" height="30" width="40" /></a>
@@ -44,7 +45,7 @@ Here are some ideas to get you started:
 <a href="https://www.leetcode.com/rehanmittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rehanmittal" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mittalrehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mittalrehan" height="30" width="40" /></a>
 </p> 
-
+-->
 <!--
 <img align="left" alt="gif" width="520" height="5" style="border-radius:5px" src="https://thumbs.gfycat.com/OrdinaryUnkemptHornbill.webp"> &nbsp;&nbsp;&nbsp;&nbsp;
 -->
