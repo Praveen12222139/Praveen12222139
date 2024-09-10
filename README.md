@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 
 <img align="right" alt="gif" width="300" style="border-radius:5px" src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/200.webp?cid=ecf05e47ng2jf7dxezd34hg04jdabbi98llm697akg7804c7&rid=200.webp&ct=g">  
 
-- :man_technologist: Pursuing BTech in Computer Science Engineering, specializing in Data Science
-- 🏫 Haryana, India
+- :man_technologist: Pursuing BTech in Computer Science Engineering, specializing in Full-Stack
+- 🏫 Uttar Pradesh, India
 - 🔭 Building my skills, while also working on a few of projects.
-- 🌱 Learning Data Science, Web Development and DSA, while working on related projects.
+- 🌱 Learning Competitive Programming, Web Development and DSA, while working on related projects.
 - 📄Check out my resume! [![Praveen Kumar]()
 - 📫 You can reach me at: [![Linkedin Badge]() <h3 align="left">Connect with me:</h3>
 <!--
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 -->
 :fire: My stats: <br><br>
 
-<div align="center"> <img  align="top-left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RehanMittal&hide=jupyter%20notebook,dart&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Rehan" height = "160" width=""/> &ensp; &ensp; <img align="top-right" src="https://github-readme-streak-stats.herokuapp.com/?user=RehanMittal&layout=compact&theme=gotham" alt="Rehan" height = "160" width=""/></div>
+<div align="center"> <img  align="top-left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Praveen12222139&hide=jupyter%20notebook,dart&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Rehan" height = "160" width=""/> &ensp; &ensp; <img align="top-right" src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen12222139&layout=compact&theme=gotham" alt="Rehan" height = "160" width=""/></div>
 <!-- <p>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brihad24&theme=dark&background=000000)](https://git.io/streak-stats) &nbsp; &nbsp; &nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brihad24&layout=compact&theme=vision-friendly-dark&exclude_repo=Flight-Fare-Predictor,SummerProjects)](https://github.com/anuraghazra/github-readme-stats)
