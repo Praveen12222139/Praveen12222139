@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🏫 Uttar Pradesh, India
 - 🔭 Building my skills, while also working on a few of projects.
 - 🌱 Learning Competitive Programming, Web Development and DSA, while working on related projects.
-- 📄Check out my resume! [![Praveen Kumar]()
+- 📄Check out my resume! [![Praveen Kumar](https://drive.google.com/file/d/1r_mMVjek9BoqybJvWz3KazCceqpmMg1w/view?usp=drive_link)
 - 📫 You can reach me at: [![Linkedin Badge]() <h3 align="left">Connect with me:</h3>
 <!--
 <p align="left">
