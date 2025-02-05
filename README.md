@@ -11,7 +11,7 @@
       Hello World!!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="4%"/> 
   </h2>
   <h4>
-      Hi 👋! I'm Praveen Kumar, a Web Developer, UI/UX designer, and Data Analyst from India. Let's connect and explore exciting opportunities in software development projects!. Scroll down to know more about me and to connect with me!
+      Hi 👋! I'm Praveen Kumar, Full-Stack Developer from India. Let's connect and explore exciting opportunities in software development projects!. Scroll down to know more about me and to connect with me!
   </h4>
 </p>
 <!--
