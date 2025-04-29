@@ -35,20 +35,7 @@ Here are some ideas to get you started:
 - 📄Check out my resume! [![Praveen Kumar](https://drive.google.com/file/d/1r_mMVjek9BoqybJvWz3KazCceqpmMg1w/view?usp=drive_link)
 - 📫 You can reach me at: [![Linkedin Badge]() <h3 align="left">Connect with me:</h3>
 <!--
-<p align="left">
-<a href="https://twitter.com/rehanmittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rehanmittal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rehanmittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rehanmittal" height="30" width="40" /></a>
-<a href="https://fb.com/rehan.mittal.186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rehan.mittal.186" height="30" width="40" /></a>
-<a href="https://instagram.com/mittalrehan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mittalrehan_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mittalrehan0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mittalrehan0" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mittalrehan0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mittalrehan0" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rehanmittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rehanmittal" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mittalrehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mittalrehan" height="30" width="40" /></a>
-</p> 
--->
-<!--
-<img align="left" alt="gif" width="520" height="5" style="border-radius:5px" src="https://thumbs.gfycat.com/OrdinaryUnkemptHornbill.webp"> &nbsp;&nbsp;&nbsp;&nbsp;
--->
+
 <br><br>
 :hammer_and_wrench: Languages and Tools :
 <br><br>
